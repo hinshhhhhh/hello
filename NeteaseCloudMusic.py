@@ -15,6 +15,8 @@ import random
 import os
 import sys
 
+
+
 #set cookie
 cookie_opener = urllib2.build_opener()
 cookie_opener.addheaders.append(('Cookie', 'appver=2.0.2'))
